@@ -1,0 +1,26 @@
+{
+  "name": "aras-js",
+  "version": "1.0.1",
+  "description": "All Realms Are Safe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bedrock-utilities/ARAS.git"
+  },
+  "keywords": [
+    "bedrock",
+    "realms",
+    "bot",
+    "security",
+    "anticheat"
+  ],
+  "author": "Fairplay & Friends",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bedrock-utilities/ARAS/issues"
+  },
+  "homepage": "https://github.com/bedrock-utilities/ARAS#readme"
+}
